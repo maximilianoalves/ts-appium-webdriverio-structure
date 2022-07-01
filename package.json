@@ -4,7 +4,8 @@
   "description": "Structure for mobile ui tests using ts + appium + webdriverio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "android.app": "wdio config/wdio.android.app.conf.ts",
+    "ios.app": "wdio config/wdio.ios.app.conf.ts"
   },
   "repository": {
     "type": "git",

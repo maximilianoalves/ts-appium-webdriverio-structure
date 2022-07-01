@@ -20,10 +20,7 @@ config.capabilities = [
         "appium:orientation": "PORTRAIT",
         "appium:automationName": "XCUITest",
         // The path to the app
-        "appium:app": join(
-            process.cwd(),
-            "./apps/iOS-Simulator-NativeDemoApp-0.4.0.app.zip"
-        ),
+        "appium:app": join(process.cwd(), "./apps/ios/SimpleCalculator.app"),
         "appium:newCommandTimeout": 240,
     },
 ];

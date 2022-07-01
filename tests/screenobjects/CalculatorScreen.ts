@@ -2,16 +2,24 @@ import AppScreen from './AppScreen';
 
 class CalculatorScreen extends AppScreen {
     constructor () {
-        super('com.example.leonardomenezes.simplecalculatorandroid:id/android_result_text');
+        super('id=id/android_result_text');
     }
 
-    private get textViewResult() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_result_text')}
-    private get fieldFirstNumber() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_field_first_number')}
-    private get fieldSecondNumber() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_field_second_number')}
-    private get btnSum() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_button_sum')}
-    private get btnSubtract() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_button_sub')}
-    private get btnMultiply() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_button_mult')}
-    private get btnDivide() {return $('com.example.leonardomenezes.simplecalculatorandroid:id/android_button_div')}
+    // search for accessibility id == $('~android_result_text')
+    private get textViewResult() {return $('id=android_result_text')}
+    private get fieldFirstNumber() {return $('id=android_field_first_number')}
+    private get fieldSecondNumber() {return $('id=android_field_second_number')}
+    private get btnSum() {return $('id=android_button_sum')}
+    private get btnSubtract() {return $('id=android_button_sub')}
+    private get btnMultiply() {return $('id=android_button_mult')}
+    private get btnDivide() {return $('id=android_button_div')}
+
+
+    async waitForTextViewResult ():Promise<boolean|void> {
+        return this.textViewResult.waitForDisplayed({
+            timeout: 20000,
+        });
+    }
 
     async fillFieldFirstNumber(number:string) {
         await this.fieldFirstNumber.setValue(number)
