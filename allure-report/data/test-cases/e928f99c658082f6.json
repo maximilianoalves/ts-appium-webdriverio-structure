@@ -1,0 +1,62 @@
+{
+  "uid" : "e928f99c658082f6",
+  "name" : "should be choose the operator",
+  "fullName" : "Calculator: should be validate the result of division of two different numbers.should be choose the operator",
+  "historyId" : "4c3d5bbde8dc0c8d99c9c9c0462c2f0e",
+  "time" : {
+    "start" : 1656701682563,
+    "stop" : 1656701683191,
+    "duration" : 628
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Calculator: should be validate the result of division of two different numbers"
+  }, {
+    "name" : "testClass",
+    "value" : "Calculator: should be validate the result of division of two different numbers"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be choose the operator"
+  }, {
+    "name" : "package",
+    "value" : "Calculator: should be validate the result of division of two different numbers"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-12"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e928f99c658082f6.json",
+  "parameterValues" : [ "emulator-5554-12" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "2561908fca80c622",
+  "name" : "should be choose the operator",
+  "fullName" : "Calculator: should be validate the result of substraction of two different numbers.should be choose the operator",
+  "historyId" : "9d18442a7c0c2d22049b8ef097839345",
+  "time" : {
+    "start" : 1656701675300,
+    "stop" : 1656701675923,
+    "duration" : 623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Calculator: should be validate the result of substraction of two different numbers"
+  }, {
+    "name" : "testClass",
+    "value" : "Calculator: should be validate the result of substraction of two different numbers"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be choose the operator"
+  }, {
+    "name" : "package",
+    "value" : "Calculator: should be validate the result of substraction of two different numbers"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-12"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2561908fca80c622.json",
+  "parameterValues" : [ "emulator-5554-12" ]
+}

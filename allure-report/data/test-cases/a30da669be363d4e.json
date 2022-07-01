@@ -1,0 +1,62 @@
+{
+  "uid" : "a30da669be363d4e",
+  "name" : "should be put the first value",
+  "fullName" : "Calculator: should be validate the result of sum of two different numbers.should be put the first value",
+  "historyId" : "b54446ab3a98ec23382078fba5955690",
+  "time" : {
+    "start" : 1656701667967,
+    "stop" : 1656701669642,
+    "duration" : 1675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Calculator: should be validate the result of sum of two different numbers"
+  }, {
+    "name" : "testClass",
+    "value" : "Calculator: should be validate the result of sum of two different numbers"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be put the first value"
+  }, {
+    "name" : "package",
+    "value" : "Calculator: should be validate the result of sum of two different numbers"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-12"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a30da669be363d4e.json",
+  "parameterValues" : [ "emulator-5554-12" ]
+}
