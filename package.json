@@ -4,8 +4,8 @@
   "description": "Structure for mobile ui tests using ts + appium + webdriverio",
   "main": "index.js",
   "scripts": {
-    "android.app": "wdio config/wdio.android.app.conf.ts",
-    "ios.app": "wdio config/wdio.ios.app.conf.ts"
+    "android.app": "PLATFORM=android wdio config/wdio.android.app.conf.ts",
+    "ios.app": "PLATFORM=ios wdio config/wdio.ios.app.conf.ts"
   },
   "repository": {
     "type": "git",

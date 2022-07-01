@@ -1,4 +1,4 @@
-import CalculatorScreen from '../screenobjects/CalculatorScreen'
+import CalculatorScreen from '../screenobjects/CalculatorScreen/CalculatorScreen'
 
 describe('Calculator', () => {
 

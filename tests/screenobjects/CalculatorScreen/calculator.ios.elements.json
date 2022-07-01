@@ -1,0 +1,9 @@
+{
+    "textViewResult": "~apple_result_text",
+    "fieldFirstNumber": "~apple_first_input",
+    "fieldSecondNumber": "~apple_second_input",
+    "btnSum": "~apple-sum-button",
+    "btnSub": "~apple-subtract-button",
+    "btnMult": "~apple-multiply-button",
+    "btnDiv": "~apple-divide-button"
+}

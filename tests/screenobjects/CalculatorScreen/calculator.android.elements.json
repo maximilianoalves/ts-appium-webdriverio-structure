@@ -1,0 +1,9 @@
+{
+    "textViewResult": "id=android_result_text",
+    "fieldFirstNumber": "id=android_field_first_number",
+    "fieldSecondNumber": "id=android_field_second_number",
+    "btnSum": "id=android_button_sum",
+    "btnSub": "id=android_button_sub",
+    "btnMult": "id=android_button_mult",
+    "btnDiv": "id=android_button_div"
+}

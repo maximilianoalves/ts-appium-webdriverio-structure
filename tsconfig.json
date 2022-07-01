@@ -1,5 +1,7 @@
 {
     "compilerOptions": {
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
         "outDir": "./.tsbuild/",
         "sourceMap": false,
         "target": "es2019",
