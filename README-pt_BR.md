@@ -16,40 +16,40 @@
 📦TS-APPIUM-WEBDRIVERIO-STRUCTURE  
  ┣ 📂apps  
  ┃ ┣ 📂android  
- ┃ ┃ ┗ 📜app-android-calculator.apk
- ┃ ┗ 📂ios
- ┃ ┃ ┗ 📜SimpleCalculator.app
- ┣ 📂config
- ┃ ┣ 📜wdio.android.app.conf.ts
- ┃ ┣ 📜wdio.ios.app.conf.ts
- ┃ ┣ 📜wdio.shared.conf.ts
- ┃ ┗ 📜wdio.shared.local.appium.conf.ts
- ┣ 📂tests
- ┃ ┣ 📂helpers
- ┃ ┃ ┣ 📜Biometrics.ts
- ┃ ┃ ┣ 📜Constants.ts
- ┃ ┃ ┣ 📜Gestures.ts
- ┃ ┃ ┣ 📜Utils.ts
- ┃ ┃ ┗ 📜WebView.ts
- ┃ ┣ 📂screenobjects
- ┃ ┃ ┣ 📂CalculatorScreen
- ┃ ┃ ┃ ┣ 📜CalculatorScreen.ts
- ┃ ┃ ┃ ┣ 📜calculator.android.elements.json
- ┃ ┃ ┃ ┗ 📜calculator.ios.elements.json
- ┃ ┃ ┗ 📜AppScreen.ts
- ┃ ┗ 📂specs
- ┃ ┃ ┗ 📜app.calculator.spec.ts
- ┣ 📜.editorconfig
- ┣ 📜.eslintrc.json
- ┣ 📜.gitignore
- ┣ 📜LICENSE
- ┣ 📜README-pt_BR.md
- ┣ 📜README.md
- ┣ 📜appium.log
- ┣ 📜babel.config.js
- ┣ 📜package-lock.json
- ┣ 📜package.json
- ┗ 📜tsconfig.json
+ ┃ ┃ ┗ 📜app-android-calculator.apk  
+ ┃ ┗ 📂ios  
+ ┃ ┃ ┗ 📜SimpleCalculator.app  
+ ┣ 📂config  
+ ┃ ┣ 📜wdio.android.app.conf.ts  
+ ┃ ┣ 📜wdio.ios.app.conf.ts  
+ ┃ ┣ 📜wdio.shared.conf.ts  
+ ┃ ┗ 📜wdio.shared.local.appium.conf.ts  
+ ┣ 📂tests  
+ ┃ ┣ 📂helpers  
+ ┃ ┃ ┣ 📜Biometrics.ts  
+ ┃ ┃ ┣ 📜Constants.ts  
+ ┃ ┃ ┣ 📜Gestures.ts  
+ ┃ ┃ ┣ 📜Utils.ts  
+ ┃ ┃ ┗ 📜WebView.ts  
+ ┃ ┣ 📂screenobjects  
+ ┃ ┃ ┣ 📂CalculatorScreen  
+ ┃ ┃ ┃ ┣ 📜CalculatorScreen.ts  
+ ┃ ┃ ┃ ┣ 📜calculator.android.elements.json  
+ ┃ ┃ ┃ ┗ 📜calculator.ios.elements.json  
+ ┃ ┃ ┗ 📜AppScreen.ts  
+ ┃ ┗ 📂specs  
+ ┃ ┃ ┗ 📜app.calculator.spec.ts  
+ ┣ 📜.editorconfig  
+ ┣ 📜.eslintrc.json  
+ ┣ 📜.gitignore  
+ ┣ 📜LICENSE  
+ ┣ 📜README-pt_BR.md  
+ ┣ 📜README.md  
+ ┣ 📜appium.log  
+ ┣ 📜babel.config.js  
+ ┣ 📜package-lock.json  
+ ┣ 📜package.json  
+ ┗ 📜tsconfig.json  
 
 ## Install and run
 
