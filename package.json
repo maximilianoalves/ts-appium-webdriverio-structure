@@ -6,9 +6,8 @@
   "scripts": {
     "android.app": "PLATFORM=android wdio config/wdio.android.app.conf.ts",
     "ios.app": "PLATFORM=ios wdio config/wdio.ios.app.conf.ts",
-    "allure:open": "allure open",
-    "allure:generate": "allure generate ./allure-results",
-    "report": "allure generate ./allure-results && allure open"
+    "full": "PLATFORM=android wdio config/wdio.android.app.conf.ts && PLATFORM=ios wdio config/wdio.ios.app.conf.ts",
+    "report": "allure open"
   },
   "repository": {
     "type": "git",

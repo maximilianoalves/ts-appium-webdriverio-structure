@@ -1,48 +1,15 @@
 {
-  "total" : 4,
+  "total" : 1,
   "items" : [ {
-    "uid" : "0409ae8973759e5fc23044062346ec91",
-    "name" : "Calculator: should be validate the result of sum of two different numbers",
+    "uid" : "100655544adc545e597f4d8a53dfac8b",
+    "name" : "Calculator",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 4
-    }
-  }, {
-    "uid" : "148641f3964ab5e0c862cb85b6619059",
-    "name" : "Calculator: should be validate the result of substraction of two different numbers",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
-    }
-  }, {
-    "uid" : "362b44c1c4485081965ebb9ce4423af6",
-    "name" : "Calculator: should be validate the result of multiply of two different numbers",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
-    }
-  }, {
-    "uid" : "34779af55996f2af82c7d9c13524ccb2",
-    "name" : "Calculator: should be validate the result of division of two different numbers",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
+      "total" : 8
     }
   } ]
 }

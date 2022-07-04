@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1656965176194' stop='1656965188821'>
+    <name>Calculator</name>
+    <title>Calculator</title>
+    <test-cases>
+        <test-case start='1656965176195' status='passed' stop='1656965179506'>
+            <name>should be validate the result of sum of two different numbers</name>
+            <title>should be validate the result of sum of two different numbers</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656965179507' status='passed' stop='1656965182317'>
+            <name>should be validate the result of substraction of two different numbers</name>
+            <title>should be validate the result of substraction of two different numbers</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656965182317' status='passed' stop='1656965185578'>
+            <name>should be validate the result of multiply of two different numbers</name>
+            <title>should be validate the result of multiply of two different numbers</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656965185578' status='passed' stop='1656965188821'>
+            <name>should be validate the result of division of two different numbers</name>
+            <title>should be validate the result of division of two different numbers</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+                <parameter kind='argument' name='device' value='iPhone 13 Pro Max-15.4'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

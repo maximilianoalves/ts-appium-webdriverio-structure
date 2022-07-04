@@ -1,0 +1,60 @@
+{
+  "uid" : "32b669a4c5206da7",
+  "name" : "should be validate the result of multiply of two different numbers",
+  "fullName" : "Calculator.should be validate the result of multiply of two different numbers",
+  "historyId" : "617ce7c86a13688bad639b3caae66de8",
+  "time" : {
+    "start" : 1656961014121,
+    "stop" : 1656961018032,
+    "duration" : 3911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "Calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be validate the result of multiply of two different numbers"
+  }, {
+    "name" : "package",
+    "value" : "Calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-12"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32b669a4c5206da7.json",
+  "parameterValues" : [ "emulator-5554-12" ]
+}

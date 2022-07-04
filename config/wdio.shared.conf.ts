@@ -1,3 +1,4 @@
+const allure = require('allure-commandline')
 /**
  * All not needed configurations, for this boilerplate, are removed.
  * If you want to know which configuration options you have then you can
@@ -136,4 +137,24 @@
     /**
      * NOTE: No Hooks are used in this project, but feel free to add them if you need them.
      */
+     onComplete: function() {
+        const reportError = new Error('Could not generate Allure report')
+        const generation = allure(['generate', 'allure-results', '--clean'])
+        return new Promise<void>((resolve, reject) => {
+            const generationTimeout = setTimeout(
+                () => reject(reportError),
+                5000)
+
+            generation.on('exit', function(exitCode:any) {
+                clearTimeout(generationTimeout)
+
+                if (exitCode !== 0) {
+                    return reject(reportError)
+                }
+
+                console.log('Allure report successfully generated')
+                resolve()
+            })
+        })
+    }
 };

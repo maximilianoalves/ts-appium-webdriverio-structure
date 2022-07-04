@@ -18,7 +18,7 @@
         ]
     },
     "include": [
-        "./config/**/*.ts",
-        "./tests/**/*.ts"
+        "../config/**/*.ts",
+        "../tests/**/*.ts"
     ]
 }
