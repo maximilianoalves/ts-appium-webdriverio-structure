@@ -13,9 +13,9 @@
 
 ## Estrutura de arquivos
 
-📦TS-APPIUM-WEBDRIVERIO-STRUCTURE
- ┣ 📂apps
- ┃ ┣ 📂android
+📦TS-APPIUM-WEBDRIVERIO-STRUCTURE  
+ ┣ 📂apps  
+ ┃ ┣ 📂android  
  ┃ ┃ ┗ 📜app-android-calculator.apk
  ┃ ┗ 📂ios
  ┃ ┃ ┗ 📜SimpleCalculator.app
