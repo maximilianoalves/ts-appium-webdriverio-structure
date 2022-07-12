@@ -1,1 +1,5 @@
 /node_modules
+appium.log
+allure-results/
+/allure-report/
+package-lock.json

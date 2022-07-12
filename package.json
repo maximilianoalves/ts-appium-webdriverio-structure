@@ -4,9 +4,9 @@
   "description": "Structure for mobile ui tests using ts + appium + webdriverio",
   "main": "index.js",
   "scripts": {
-    "android.app": "PLATFORM=android wdio config/wdio.android.app.conf.ts",
-    "ios.app": "PLATFORM=ios wdio config/wdio.ios.app.conf.ts",
-    "full": "PLATFORM=android wdio config/wdio.android.app.conf.ts && PLATFORM=ios wdio config/wdio.ios.app.conf.ts",
+    "android.app": "cross-env PLATFORM=android wdio config/wdio.android.app.conf.ts",
+    "ios.app": "cross-env PLATFORM=ios wdio config/wdio.ios.app.conf.ts",
+    "full": "cross-env PLATFORM=android wdio config/wdio.android.app.conf.ts && cross-env PLATFORM=ios wdio config/wdio.ios.app.conf.ts",
     "report": "allure open"
   },
   "repository": {
@@ -29,6 +29,7 @@
     "@wdio/mocha-framework": "^7.20.3",
     "@wdio/spec-reporter": "^7.20.3",
     "allure-commandline": "^2.17.2",
+    "cross-env": "^7.0.3",
     "eslint-plugin-wdio": "^7.19.4",
     "ts-node": "^10.8.1",
     "typescript": "^4.7.4"

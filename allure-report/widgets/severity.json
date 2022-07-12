@@ -1,25 +1,5 @@
 [ {
-  "uid" : "67f33e3aa914a999",
-  "name" : "should be validate the result of sum of two different numbers",
-  "time" : {
-    "start" : 1656965176195,
-    "stop" : 1656965179506,
-    "duration" : 3311
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4730653b4805496b",
-  "name" : "should be validate the result of division of two different numbers",
-  "time" : {
-    "start" : 1656965185578,
-    "stop" : 1656965188821,
-    "duration" : 3243
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c30e5bade1847b37",
+  "uid" : "8aaf1b2d3c79f00a",
   "name" : "should be validate the result of multiply of two different numbers",
   "time" : {
     "start" : 1656965182317,
@@ -29,7 +9,37 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "57547a1e838bdb",
+  "uid" : "4fde37448daf464a",
+  "name" : "should be validate the result of division of two different numbers",
+  "time" : {
+    "start" : 1656965185578,
+    "stop" : 1656965188821,
+    "duration" : 3243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf36bed0134c0d7e",
+  "name" : "should be validate the result of division of two different numbers",
+  "time" : {
+    "start" : 1657637917906,
+    "stop" : 1657637921088,
+    "duration" : 3182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b0abe8364175c84",
+  "name" : "should be validate the result of sum of two different numbers",
+  "time" : {
+    "start" : 1657637907837,
+    "stop" : 1657637911960,
+    "duration" : 4123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f134088a265ed490",
   "name" : "should be validate the result of substraction of two different numbers",
   "time" : {
     "start" : 1656965179507,
@@ -39,42 +49,32 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "20b73b8d6cb53154",
-  "name" : "should be validate the result of multiply of two different numbers",
-  "time" : {
-    "start" : 1656969827345,
-    "stop" : 1656969831101,
-    "duration" : 3756
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e24e3a4edfd45b8e",
-  "name" : "should be validate the result of sum of two different numbers",
-  "time" : {
-    "start" : 1656969777912,
-    "stop" : 1656969819136,
-    "duration" : 41224
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1c4ecb7f800aacb6",
+  "uid" : "8d49d221560b2d7",
   "name" : "should be validate the result of substraction of two different numbers",
   "time" : {
-    "start" : 1656969819136,
-    "stop" : 1656969827345,
-    "duration" : 8209
+    "start" : 1657637911960,
+    "stop" : 1657637914692,
+    "duration" : 2732
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "48ed59778bf0a5b3",
-  "name" : "should be validate the result of division of two different numbers",
+  "uid" : "93d2d0dfb44eeb87",
+  "name" : "should be validate the result of sum of two different numbers",
   "time" : {
-    "start" : 1656969831101,
-    "stop" : 1656969834588,
-    "duration" : 3487
+    "start" : 1656965176195,
+    "stop" : 1656965179506,
+    "duration" : 3311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37df98f3a34b018c",
+  "name" : "should be validate the result of multiply of two different numbers",
+  "time" : {
+    "start" : 1657637914693,
+    "stop" : 1657637917906,
+    "duration" : 3213
   },
   "status" : "passed",
   "severity" : "normal"

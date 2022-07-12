@@ -4,110 +4,8 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "should be validate the result of sum of two different numbers",
-      "uid" : "e24e3a4edfd45b8e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656969777912,
-        "stop" : 1656969819136,
-        "duration" : 41224
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
-    }, {
-      "name" : "should be validate the result of division of two different numbers",
-      "uid" : "4730653b4805496b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656965185578,
-        "stop" : 1656965188821,
-        "duration" : 3243
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "iPhone 13 Pro Max-15.4" ]
-    }, {
-      "name" : "should be validate the result of sum of two different numbers",
-      "uid" : "cac5ef4777047fa1",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656964945410,
-        "stop" : 1656964949751,
-        "duration" : 4341
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
-    }, {
-      "name" : "should be validate the result of sum of two different numbers",
-      "uid" : "427a68b07571649b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656961006371,
-        "stop" : 1656961010700,
-        "duration" : 4329
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
-    }, {
       "name" : "should be validate the result of multiply of two different numbers",
-      "uid" : "a0771986e6eca976",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656964953684,
-        "stop" : 1656964957640,
-        "duration" : 3956
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
-    }, {
-      "name" : "should be validate the result of multiply of two different numbers",
-      "uid" : "32b669a4c5206da7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656961014121,
-        "stop" : 1656961018032,
-        "duration" : 3911
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
-    }, {
-      "name" : "should be validate the result of multiply of two different numbers",
-      "uid" : "c30e5bade1847b37",
+      "uid" : "8aaf1b2d3c79f00a",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -123,31 +21,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
-      "name" : "should be validate the result of multiply of two different numbers",
-      "uid" : "20b73b8d6cb53154",
+      "name" : "should be validate the result of division of two different numbers",
+      "uid" : "4fde37448daf464a",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1656969827345,
-        "stop" : 1656969831101,
-        "duration" : 3756
+        "start" : 1656965185578,
+        "stop" : 1656965188821,
+        "duration" : 3243
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
+      "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
-      "name" : "should be validate the result of division of two different numbers",
-      "uid" : "3737283fe20c47ca",
+      "name" : "should be validate the result of multiply of two different numbers",
+      "uid" : "c5c8e8f8d1bdc1b6",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1656961018032,
-        "stop" : 1656961022320,
-        "duration" : 4288
+        "start" : 1656961014121,
+        "stop" : 1656961018032,
+        "duration" : 3911
       },
       "flaky" : false,
       "newFailed" : false,
@@ -158,7 +56,75 @@
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of substraction of two different numbers",
-      "uid" : "1c4ecb7f800aacb6",
+      "uid" : "8d49d221560b2d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657637911960,
+        "stop" : 1657637914692,
+        "duration" : 2732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of division of two different numbers",
+      "uid" : "ae34bdefe8d3297a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656964957641,
+        "stop" : 1656964960590,
+        "duration" : 2949
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of multiply of two different numbers",
+      "uid" : "37df98f3a34b018c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657637914693,
+        "stop" : 1657637917906,
+        "duration" : 3213
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of division of two different numbers",
+      "uid" : "cf36bed0134c0d7e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657637917906,
+        "stop" : 1657637921088,
+        "duration" : 3182
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of substraction of two different numbers",
+      "uid" : "d80b5c3f8a242a43",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -170,18 +136,18 @@
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of substraction of two different numbers",
-      "uid" : "7ce6491f6d6edb44",
+      "uid" : "cef9de42ceb93163",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1656961010701,
-        "stop" : 1656961014121,
-        "duration" : 3420
+        "start" : 1656964949752,
+        "stop" : 1656964953683,
+        "duration" : 3931
       },
       "flaky" : false,
       "newFailed" : false,
@@ -192,7 +158,24 @@
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of sum of two different numbers",
-      "uid" : "67f33e3aa914a999",
+      "uid" : "ee5c3bb09fe35461",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656969777912,
+        "stop" : 1656969819136,
+        "duration" : 41224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of sum of two different numbers",
+      "uid" : "93d2d0dfb44eeb87",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -209,24 +192,7 @@
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
       "name" : "should be validate the result of division of two different numbers",
-      "uid" : "2109ebdb3cf6f99c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1656964957641,
-        "stop" : 1656964960590,
-        "duration" : 2949
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "emulator-5554-12" ]
-    }, {
-      "name" : "should be validate the result of division of two different numbers",
-      "uid" : "48ed59778bf0a5b3",
+      "uid" : "c9680d24dd336bc4",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -238,12 +204,97 @@
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of sum of two different numbers",
+      "uid" : "25662a5099dfc170",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656961006371,
+        "stop" : 1656961010700,
+        "duration" : 4329
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of sum of two different numbers",
+      "uid" : "4b0abe8364175c84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657637907837,
+        "stop" : 1657637911960,
+        "duration" : 4123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of multiply of two different numbers",
+      "uid" : "8a488041654a7892",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656969827345,
+        "stop" : 1656969831101,
+        "duration" : 3756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of sum of two different numbers",
+      "uid" : "22acab61be2b90f3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656964945410,
+        "stop" : 1656964949751,
+        "duration" : 4341
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of multiply of two different numbers",
+      "uid" : "8c833bcb2aeb52cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656964953684,
+        "stop" : 1656964957640,
+        "duration" : 3956
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of substraction of two different numbers",
-      "uid" : "57547a1e838bdb",
+      "uid" : "f134088a265ed490",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -260,13 +311,30 @@
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
       "name" : "should be validate the result of substraction of two different numbers",
-      "uid" : "cb398afda19fb407",
+      "uid" : "6285fdbcc72d52a4",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1656964949752,
-        "stop" : 1656964953683,
-        "duration" : 3931
+        "start" : 1656961010701,
+        "stop" : 1656961014121,
+        "duration" : 3420
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "emulator-5554-12" ]
+    }, {
+      "name" : "should be validate the result of division of two different numbers",
+      "uid" : "f88c1514a2c034f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656961018032,
+        "stop" : 1656961022320,
+        "duration" : 4288
       },
       "flaky" : false,
       "newFailed" : false,

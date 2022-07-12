@@ -5,7 +5,7 @@
     "name" : "Calculator",
     "children" : [ {
       "name" : "should be validate the result of sum of two different numbers",
-      "uid" : "67f33e3aa914a999",
+      "uid" : "93d2d0dfb44eeb87",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
@@ -22,7 +22,7 @@
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
       "name" : "should be validate the result of substraction of two different numbers",
-      "uid" : "57547a1e838bdb",
+      "uid" : "f134088a265ed490",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
       "name" : "should be validate the result of multiply of two different numbers",
-      "uid" : "c30e5bade1847b37",
+      "uid" : "8aaf1b2d3c79f00a",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
@@ -56,7 +56,7 @@
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
       "name" : "should be validate the result of division of two different numbers",
-      "uid" : "4730653b4805496b",
+      "uid" : "4fde37448daf464a",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
@@ -73,70 +73,70 @@
       "parameters" : [ "iPhone 13 Pro Max-15.4" ]
     }, {
       "name" : "should be validate the result of sum of two different numbers",
-      "uid" : "e24e3a4edfd45b8e",
+      "uid" : "4b0abe8364175c84",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
-        "start" : 1656969777912,
-        "stop" : 1656969819136,
-        "duration" : 41224
+        "start" : 1657637907837,
+        "stop" : 1657637911960,
+        "duration" : 4123
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 3,
       "retriesStatusChange" : false,
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of substraction of two different numbers",
-      "uid" : "1c4ecb7f800aacb6",
+      "uid" : "8d49d221560b2d7",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
-        "start" : 1656969819136,
-        "stop" : 1656969827345,
-        "duration" : 8209
+        "start" : 1657637911960,
+        "stop" : 1657637914692,
+        "duration" : 2732
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 3,
       "retriesStatusChange" : false,
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of multiply of two different numbers",
-      "uid" : "20b73b8d6cb53154",
+      "uid" : "37df98f3a34b018c",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
-        "start" : 1656969827345,
-        "stop" : 1656969831101,
-        "duration" : 3756
+        "start" : 1657637914693,
+        "stop" : 1657637917906,
+        "duration" : 3213
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 3,
       "retriesStatusChange" : false,
       "parameters" : [ "emulator-5554-12" ]
     }, {
       "name" : "should be validate the result of division of two different numbers",
-      "uid" : "48ed59778bf0a5b3",
+      "uid" : "cf36bed0134c0d7e",
       "parentUid" : "100655544adc545e597f4d8a53dfac8b",
       "status" : "passed",
       "time" : {
-        "start" : 1656969831101,
-        "stop" : 1656969834588,
-        "duration" : 3487
+        "start" : 1657637917906,
+        "stop" : 1657637921088,
+        "duration" : 3182
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 3,
       "retriesStatusChange" : false,
       "parameters" : [ "emulator-5554-12" ]
     } ],

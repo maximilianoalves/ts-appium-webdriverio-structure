@@ -55,7 +55,7 @@
 
 - Clonar o projeto `git clone https://github.com/maximilianoalves/ts-appium-webdriverio-structure.git`
 - Instalar as dependencias `npm install`
-- Instalar o Appium em sua maquina locasl
+- Instalar o Appium em sua maquina local ou se você tinha o appium instalado execute `npm link appium`
 - Setar as variaveis de ambiente para Android e iOS em sua máquina local
 - Abrir e configurar o simulador para Android e iOS
 - Executar os testes usando: `npm run android.app`, `npm run ios.app` ou `npm run full`
